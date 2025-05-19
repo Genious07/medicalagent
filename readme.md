@@ -1,4 +1,4 @@
-#🏥 Medical Imaging Diagnosis Agent
+# 🏥 Medical Imaging Diagnosis Agent
 
 A Streamlit-based web application that leverages Google’s Gemini AI and DuckDuckGo search tools to perform automated radiological analysis of uploaded medical images. Designed for educational and informational purposes, this tool provides structured diagnostic insights, patient-friendly explanations, and relevant research references.
 
